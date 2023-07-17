@@ -3,7 +3,7 @@
         'name' => 'thiagovasque/ecommerce',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'a3e81a7a5841c24fe6a8b53fdd3daaab185184e8',
+        'reference' => '0068755ccb535c2797940c040d7080a1d20c165b',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'phpmailer/phpmailer' => array(
-            'pretty_version' => 'v5.2.22',
-            'version' => '5.2.22.0',
-            'reference' => 'b18cb98131bd83103ccb26a888fdfe3177b8a663',
+            'pretty_version' => 'v6.8.0',
+            'version' => '6.8.0.0',
+            'reference' => 'df16b615e371d81fb79e506277faea67a1be18f1',
             'type' => 'library',
             'install_path' => __DIR__ . '/../phpmailer/phpmailer',
             'aliases' => array(),
@@ -40,7 +40,7 @@
         'thiagovasque/ecommerce' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'a3e81a7a5841c24fe6a8b53fdd3daaab185184e8',
+            'reference' => '0068755ccb535c2797940c040d7080a1d20c165b',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
